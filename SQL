@@ -1,0 +1,3 @@
+MYSQL
+
+(select(0)from(select(sleep(25)))v)
