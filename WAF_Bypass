@@ -5,6 +5,9 @@ https://hackerone.com/reports/1011767
 &lt;base href=//knoxss.me>
 https://twitter.com/KN0X55/status/1188829588903858177
 
+X-Client-IP:127.0.0.1
+https://twitter.com/Bugcrowd/status/1457472936160419844?t=SgUgKupPaTBocMH5fbuShg&s=19
+
 https://github.com/m4ll0k/BBTz/blob/master/ssrf.py
 injectable_headers = [
     "Proxy-Host","Request-Uri","X-Forwarded","X-Forwarded-By","X-Forwarded-For",
