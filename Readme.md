@@ -12,6 +12,6 @@ Common Android app Vulnerabilities by Google: https://static.googleusercontent.c
 
 ## Fav hackers
 
-1. https://hackerone.com/bagipro?type=user
-2. https://www.youtube.com/@LiveOverflow
-3. https://www.youtube.com/@STOKfredrik  
+1. https://www.youtube.com/@LiveOverflow
+2. https://www.youtube.com/@STOKfredrik
+3. https://hackerone.com/bagipro?type=user  
