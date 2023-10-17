@@ -83,3 +83,6 @@ a'><script>alert(0)</script>'a
 Useful Links:
 https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 http://seguretat.wiki.uoc.edu/index.php/XSS_Cheat_Sheet
+
+Interesting videos:
+Using window.name to bypass char restrictions: https://www.youtube.com/watch?v=3zShGLEqDn8
